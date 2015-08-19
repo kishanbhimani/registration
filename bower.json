@@ -1,0 +1,20 @@
+{
+  "name": "registration",
+  "version": "0.1.0",
+  "description": "Simple Registration with angularJS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "angularjs": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "angular-cookies": "~1.4.4"
+  }
+}
