@@ -102,7 +102,7 @@ module.exports = function (grunt) {
 
     grunt.registerTask('serve', [
 		'sass:server',
-       // 'uglify:js', //to minifide javascript files.........
+       // 'uglify:js', //to minifide javascript files
         'uglify:style',
 		'connect:livereload',
         'watch'
